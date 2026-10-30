@@ -1,0 +1,6 @@
+{
+  "name": "Grandmaster Studio - Stockfish Engine & Game Analysis",
+  "description": "Play against Stockfish, analyze Lichess and Chess.com games with move classification, train best moves, and play blitz with friends featuring a real-time evaluation bar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
